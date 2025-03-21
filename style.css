@@ -1,0 +1,25 @@
+body {
+width: 507.5px;
+background-color: white;
+padding-top: 1px;
+margin: auto;
+margin-top: 25px;
+text-align: center;
+padding-left: 100px;
+padding-right: 100px;
+margin-bottom: 25px;
+height: 894.499969px;
+}
+
+html {
+background-color:paleturquoise;
+}
+
+h1 {
+font-size: 48px;
+}
+
+button {
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
